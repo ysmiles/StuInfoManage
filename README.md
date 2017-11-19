@@ -1,0 +1,2 @@
+# StuInfoManage
+Old things.
